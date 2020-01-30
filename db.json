@@ -7,7 +7,7 @@
     { "id": 5, "title": "http://id6.indostreamingtv.com/playergtv.html", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/gtv.png" },
     { "id": 6, "title": "http://www.itvonline.id/playermetrotv.php", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/metrotv.png" },
     { "id": 7, "title": "https://www.useetv.com/livetv/tvone", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/tvone.png" },
-    { "id": 8, "title": "http://id1.indostreamingtv.com/playerantv.html", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/antv.png" },
+    { "id": 8, "title": "http://www.itvonline.id/playerantv.php", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/antv.png" },
     { "id": 9, "title": "http://id1.indostreamingtv.com/playertrans-17.html", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/trans7.png" },
     { "id": 10, "title": "http://id6.indostreamingtv.com/playertransxtv.html", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/transtv.png" },
     { "id": 11, "title": "https://www.useetv.com/livetv/kompastv", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/kompas.png" },
