@@ -1,7 +1,7 @@
 {
   "indo": [
     { "id": 1, "title": "http://id1.indostreamingtv.com/playerindosiar.html", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/indosiar.png" },
-    { "id": 2, "https://www.vidio.com/live/204-sctv-tv-stream", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/sctv.png" },
+    { "id": 2, "title": "https://www.vidio.com/live/204-sctv-tv-stream", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/sctv.png" },
     { "id": 3, "title": "http://id6.indostreamingtv.com/playerrcti.html", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/rcti.png" },
     { "id": 4, "title": "http://id6.indostreamingtv.com/playermnctv.html", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/mnc.png" },
     { "id": 5, "title": "http://id6.indostreamingtv.com/playergtv.html", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/gtv.png" },
