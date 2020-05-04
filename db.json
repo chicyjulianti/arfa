@@ -17,7 +17,8 @@
     { "id": 15, "title": "https://www.vidio.com/live/5409-inews-tv-stream", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/inews.png" },
     { "id": 16, "title": "https://www.useetv.com/livetv/tvri", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/tvri.png" },
     { "id": 17, "title": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/tvri.png" },
-    { "id": 18, "title": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISultengpalu)/index.m3u8", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/tvri.png" }
+    { "id": 18, "title": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISultengpalu)/index.m3u8", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/tvri.png" },
+    { "id": 19, "title": "http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/tvri.png" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
