@@ -1,10 +1,10 @@
 {
   "indo": [
-    { "id": 1, "title": "http://id1.indostreamingtv.com/playerindosiar.html", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/indosiar.png" },
+    { "id": 1, "title": "https://www.vidio.com/live/205-indosiar", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/indosiar.png" },
     { "id": 2, "title": "https://www.vidio.com/live/204-sctv-tv-stream", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/sctv.png" },
-    { "id": 3, "title": "http://id6.indostreamingtv.com/playerrcti.html", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/rcti.png" },
-    { "id": 4, "title": "http://id6.indostreamingtv.com/playermnctv.html", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/mnc.png" },
-    { "id": 5, "title": "http://id6.indostreamingtv.com/playergtv.html", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/gtv.png" },
+    { "id": 3, "title": "https://www.vidio.com/live/665-rcti", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/rcti.png" },
+    { "id": 4, "title": "https://www.vidio.com/live/870-mnc", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/mnc.png" },
+    { "id": 5, "title": "https://www.vidio.com/live/778-gtv", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/gtv.png" },
     { "id": 6, "title": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/metrotv.png" },
     { "id": 7, "title": "http://id1.indostreamingtv.com/live/tv444/index.m3u8", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/tvone.png" },
     { "id": 8, "title": "https://www.useetv.com/livetv/antv", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/antv.png" },
