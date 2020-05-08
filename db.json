@@ -50,7 +50,6 @@
     { "id": 48, "title": "http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/redbull.png" },
     { "id": 49, "title": "http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/animalplanet.png" },
     { "id": 50, "title": "http://203.153.218.28:9981/stream/channelid/1949182550?ticket=C4FE458C6B9C4686BA0966E59174C0D6805DBB39&profile=pass", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/foxfamily.png" }
-
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
