@@ -29,8 +29,8 @@
     { "id": 27, "title": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1727180659_b384000_sleng.m3u8", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/cnbc.png" },
     { "id": 28, "title": "http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/redbull.png" },
     { "id": 29, "title": "http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/animalplanet.png" },
-    { "id": 30, "title": "http://203.153.218.28:9981/stream/channelid/1949182550?ticket=C4FE458C6B9C4686BA0966E59174C0D6805DBB39&profile=pass", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/foxfamily.png" }
-    
+    { "id": 30, "title": "http://203.153.218.28:9981/stream/channelid/1949182550?ticket=C4FE458C6B9C4686BA0966E59174C0D6805DBB39&profile=pass", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/foxfamily.png" },
+{ "id": 31, "title": "http://203.153.218.28:9981/stream/channelid/2038175895?ticket=6BFD6BDBFA641B9E326D9F96C522A9CA148626C6&profile=pass", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/hbohits.png" }    
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
