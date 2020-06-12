@@ -1,7 +1,7 @@
 {
   "indo": [
     { "id": 1, "title": "https://cdnbpp1.useetv.com/joss/15/indosiar/chunklist_w72459728_b894100_sleng_108233.m3u8", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/indosiar.png" },
-    { "id": 2, "title": "https://cdnbpp1.useetv.com/joss/15/sctv/chunklist_w1027229960_b1344100_sleng_88719.m3u8", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/sctv.png" },
+    { "id": 2, "title": "https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w1027229960_b684100_sleng_88713.m3u8", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/sctv.png" },
     { "id": 3, "title": "https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8", "yyy": "", "iklan": "2", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/rcti.png" },
     { "id": 4, "title": "https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/mnc.png" },
     { "id": 5, "title": "https://www.vidio.com/live/778-gtv", "yyy": "", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/gtv.png" },
