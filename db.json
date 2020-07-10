@@ -17,9 +17,9 @@
     { "id": 15, "title": "https://m.vidio.com/live/5409-inews", "yyy": "", "iklan": "", "url": "2" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/inews.png" },
     { "id": 16, "title": "https://m.vidio.com/live/6441-tvri", "yyy": "Live ", "iklan": "", "url": "2" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/tvri.png" },
     { "id": 17, "title": "https://m.vidio.com/live/6441-tvri", "yyy": "Live ", "iklan": "", "url": "2" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/tvri.png" },
-    { "id": 18, "title": "http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/aditv1.png" },
-    { "id": 19, "title": "https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/mytv.png" },
-    { "id": 20, "title": "http://103.30.1.14:8080/hls/live.m3u8", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/tvku.png" },
+    { "id": 18, "title": "https://youtu.be/WZ83bBwWZQY", "yyy": "Live ", "iklan": "", "url": "2" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/aditv1.png" },
+    { "id": 19, "title": "https://m.vidio.com/live/6711-mytv", "yyy": "Live ", "iklan": "", "url": "2" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/mytv.png" },
+    { "id": 20, "title": "https://m.vidio.com/live/6711-mytv", "yyy": "Live ", "iklan": "", "url": "2" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/tvku.png" },
     { "id": 21, "title": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/jg.png" },
     { "id": 22, "title": "http://wowza58.indostreamserver.com:1935/ruaitv/live/playlist.m3u8", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/ruaitv.png" },
     { "id": 23, "title": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/cnn.png" },
@@ -27,9 +27,9 @@
     { "id": 25, "title": "http://36.89.47.217:11935/rrinet/live/index.m3u8", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/rri.png" },
     { "id": 26, "title": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1727180659_b384000_sleng.m3u8", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/cnbc.png" },
     { "id": 27, "title": "http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/redbull.png" },
-    { "id": 28, "title": "http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/natgeowild.png" },
-    { "id": 29, "title": "http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/natgeo2.png" }, 
-    { "id": 30, "title": "http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8", "yyy": "Live ", "iklan": "", "url": "" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/boomerang2.png" }  
+    { "id": 28, "title": "https://m.vidio.com/live/6711-mytv", "yyy": "Live ", "iklan": "", "url": "2" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/natgeowild.png" },
+    { "id": 29, "title": "https://m.vidio.com/live/6711-mytv", "yyy": "Live ", "iklan": "", "url": "2" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/natgeo2.png" }, 
+    { "id": 30, "title": "https://m.vidio.com/live/6711-mytv", "yyy": "Live ", "iklan": "", "url": "2" , "imgurl": "https://raw.githubusercontent.com/chicyjulianti/arfa/master/boomerang2.png" }  
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
